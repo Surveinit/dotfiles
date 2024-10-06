@@ -1,3 +1,4 @@
+-- hello world
 return {
   "goolord/alpha-nvim",
   event = "VimEnter",
