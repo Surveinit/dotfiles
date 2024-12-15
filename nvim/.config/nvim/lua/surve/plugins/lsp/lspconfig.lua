@@ -129,7 +129,7 @@ return {
 
       -- configure python-lsp-server for python
       ["python-lsp-server"] = function()
-        lspconfig["python-lsp-server"].setup({
+        lspconfig["pylsp"].setup({
           capabilities = capabilities,
           filetypes = { "python" },
         })
