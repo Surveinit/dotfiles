@@ -36,7 +36,7 @@ return {
         "emmet_ls",
         -- "prismals",
         "pyright",
-        -- "solargraph",
+        "solargraph",
       },
     })
 
